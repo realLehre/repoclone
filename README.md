@@ -9,3 +9,7 @@ I used a desktop-first approach for this one and making the entire layout respon
 ## Getting the icons and avatar
 
 For beginners seeing this, all I did was use the built-in inspect element tool in chrome to grab the codes.
+
+## Deployed page link
+
+Find the live deployed page link [here](https://lehrerepoclone.netlify.app/)
